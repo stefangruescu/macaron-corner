@@ -1,0 +1,23 @@
+.logo {
+	padding-left: 12rem;
+	padding-bottom: 1rem;
+}
+
+header .logout:hover {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.fa-heart:active {
+	color: red;
+}
+
+.header-line {
+	background: #ffbbbb;
+}
+
+@media (max-width: 1200px) {
+	.logo {
+		padding-left: 0;
+	}
+}

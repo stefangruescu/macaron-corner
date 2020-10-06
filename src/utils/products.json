@@ -1,0 +1,248 @@
+{
+	"shoes": {
+		"items": [
+			{
+				"id": 1,
+				"name": "ADIDAS RESPONSE HOVERTURF",
+				"price": 100,
+				"currency": "$",
+				"image": "https://i.imgur.com/6kqlhhB.jpg",
+				"size": 45,
+				"colour": "White",
+				"material": "Synthetic",
+				"brand": "Adidas",
+				"description": "Adidas is back with another release for the green-thumbed sneakerheads, reworking the Response Hoverturf with colourways inspired by early ‘00s trail runners, END Clothing."
+			},
+			{
+				"id": 2,
+				"name": " BALENCIAGA TRACK 2",
+				"price": 600,
+				"currency": "$",
+				"image": "https://i.imgur.com/DewWjMv.jpg",
+				"size": 45,
+				"colour": "Grey",
+				"material": "Synthetic",
+				"brand": "Balenciaga",
+				"description": "One of the finest sneakers available on market"
+			},
+			{
+				"id": 3,
+				"name": "ADIDAS X CONCEPTS A-ZX ZX9000",
+				"price": 300,
+				"currency": "$",
+				"image": "https://i.imgur.com/5a7XZU9.jpg",
+				"size": 45,
+				"colour": "White",
+				"material": "Synthetic",
+				"brand": "Adidas",
+				"description": "For that moment when u feel like wearing casual clothes but u want that special vibe"
+			}
+		],
+		"image": "https://i.imgur.com/yqjm3DZ.jpg",
+		"name": "Shoes",
+		"description": "Limited edition sneakers"
+	},
+	"sweaters": {
+		"items": [
+			{
+				"id": 4,
+				"name": "AMIRI HOODY",
+				"price": 930,
+				"currency": "$",
+				"image": "https://i.imgur.com/h595v7o.jpg",
+				"size": "XL",
+				"colour": "Light Blue",
+				"material": "Polyester",
+				"brand": "AMIRI",
+				"description": "Inspired by the glowing Mediterranean sun, this AMIRI hoody is wrapped in pastel hues to create a watercolour design that will transport you to the coast."
+			},
+			{
+				"id": 5,
+				"name": "BURBERRY WOVEN TECHNICAL HOODY",
+				"price": 600,
+				"currency": "$",
+				"image": "https://i.imgur.com/4zCYiR9.jpg",
+				"size": "L",
+				"colour": "White",
+				"material": "Cotton",
+				"brand": "BURBERRY",
+				"description": "This piece is a must have for any sweaters lovers"
+			},
+			{
+				"id": 6,
+				"name": "MONCLER GENIUS 1952",
+				"price": 800,
+				"currency": "$",
+				"image": "https://i.imgur.com/yUWhlBP.jpg",
+				"size": "XL",
+				"colour": "Pink",
+				"material": "Cotton",
+				"brand": "MONCLER",
+				"description": "Centered with an ‘M’ shaped building block, this Moncler sweatshirt comes in a washed salmon pink hue."
+			},
+			{
+				"id": 7,
+				"name": "VERSACE",
+				"price": 700,
+				"currency": "$",
+				"image": "https://i.imgur.com/86Znh6l.jpg",
+				"size": "M",
+				"colour": "Black",
+				"material": "Cotton",
+				"brand": "VERSACE",
+				"description": "Editor's pick"
+			}
+		],
+		"image": "https://i.imgur.com/df89ycw.jpg",
+		"name": "Sweaters",
+		"description": "Royal class Sweaters"
+	},
+	"pants": {
+		"items": [
+			{
+				"id": 8,
+				"name": "RAF SIMONS SLIM FIT WASHED JEAN",
+				"price": 135,
+				"currency": "$",
+				"image": "https://i.imgur.com/vnr4u3a.jpg",
+				"size": "36",
+				"colour": "Black",
+				"material": "Jeans",
+				"brand": "RAF SIMONS",
+				"description": "These Raf Simons jeans — with their washed black hue and chain zip detailing — perfectly capture the Belgian designer’s punk rock aesthetic , END Clothing."
+			},
+			{
+				"id": 9,
+				"name": "REPRESENT DESTROYER JEAN",
+				"price": 80,
+				"currency": "$",
+				"image": "https://i.imgur.com/0uBtytE.jpg",
+				"size": "34",
+				"colour": "Black",
+				"material": "Jeans",
+				"brand": "REPRESENT",
+				"description": "Distressed denim is a Represent signature; it’s used by the label to convey a rebellious, street-focused approach to styling. These jeans are just that."
+			}
+		],
+		"image": "https://i.imgur.com/VDlQO1E.jpg",
+		"name": "Jeans",
+		"description": "Only designer Jeans"
+	},
+	"jackets": {
+		"items": [
+			{
+				"id": 10,
+				"name": "POLO RALPH LAUREN RECYCLED LIGHTWEIGHT DOWN JACKET",
+				"price": 810,
+				"currency": "$",
+				"image": "https://i.imgur.com/xyBBprQ.jpg",
+				"size": "XL",
+				"colour": "Black",
+				"material": "Recycled Nylon,",
+				"brand": "Polo",
+				"description": "Prep for cooler weather with the help of Polo Ralph Lauren. Lined with an innovative fill fibre that mimics the look, feel and performance of down, this lightweight jacket offers unrivalled warmth."
+			},
+			{
+				"id": 11,
+				"name": "NEIL BARRETT LOGO CONTRAST SLEEVE COACH JACKET",
+				"price": 550,
+				"currency": "$",
+				"image": "https://i.imgur.com/c5BHSOW.jpg",
+				"size": "L",
+				"colour": "White",
+				"material": "Polyester",
+				"brand": "NEIL BARRETT",
+				"description": "In a cool palette of black and white, this coach jacket is a premium piece of preppy outerwear from Neil Barrett’s AW20 collection. Detailed with striped ribbed cuffs and an open camp collar, it’s completed with a monogram logo patch placed proudly at the chest."
+			},
+			{
+				"id": 12,
+				"name": "NIKE HERITAGE INSULATED VEST",
+				"price": 250,
+				"currency": "$",
+				"image": "https://i.imgur.com/iYZYV5s.jpg",
+				"size": "L",
+				"colour": "White",
+				"material": "Polyester",
+				"brand": "NIKE",
+				"description": "Transition through the seasons with ease in this Nike Heritage vest. Designed to keep you warm and dry in unpredictable weather, it combines a water repellent outer shell with an insulating Sherpa fleece interior to lock in the warmth."
+			}
+		],
+		"image": "https://i.imgur.com/heZubOo.jpg",
+		"name": "Coats & Jackets",
+		"description": "For boys that know what they want"
+	},
+	"tshirts": {
+		"items": [
+			{
+				"id": 13,
+				"name": "GUCCI SPIKE MASK PRINT LOGO OVERSIZED TEE",
+				"price": 390,
+				"currency": "$",
+				"image": "https://i.imgur.com/lbJLYAo.jpg",
+				"size": "L",
+				"colour": "Black",
+				"material": "Cotton",
+				"brand": "Gucci",
+				"description": "Ahead of Gucci’s AW19 show, attendees received face casts of Ancient Greek god Hermaphroditus, giving them a hint of what to expect – the collection was centred around the theme of being both visible and invisible, or, ‘the mask’."
+			},
+			{
+				"id": 14,
+				"name": "BALENCIAGA PARIS TOURIST LOGO TEE",
+				"price": 210,
+				"currency": "$",
+				"image": "https://i.imgur.com/W9zDgdF.jpg",
+				"size": "L",
+				"colour": "Blue",
+				"material": "Cotton",
+				"brand": "Balenciaga",
+				"description": "Balenciaga puts a luxury spin on souvenir styles this season, crafting this emerald green tee in Italy from soft cotton jersey. It celebrates all things Paris, from the vibrant energy to the Eiffel Tower and its reputation as the city of love."
+			},
+			{
+				"id": 15,
+				"name": "VETEMENTS DOUBLE MARIA TEE",
+				"price": 1100,
+				"currency": "$",
+				"image": "https://i.imgur.com/poZJRDH.jpg",
+				"size": "L",
+				"colour": "Black",
+				"material": "Cotton",
+				"brand": "VETEMENTS",
+				"description": "Double the style, this oversized Maria tee from VETEMENTS shows off a layered build that’s made from pure cotton jersey. Stamped with leafy branding, its bold look is completed with a classic ribbed collar."
+			}
+		],
+		"image": "https://i.imgur.com/r5vNau4.jpg",
+		"name": "T-Shirts",
+		"description": "You can't say u have style without one of our t-shirts"
+	},
+	"accesories": {
+		"items": [
+			{
+				"id": 16,
+				"name": "Y-3 CLASSIC BEANIE",
+				"price": 180,
+				"currency": "$",
+				"image": "https://i.imgur.com/5deQ2kT.jpg",
+				"size": "Universal",
+				"colour": "Black",
+				"material": "Wool",
+				"brand": "Y-3",
+				"description": "Yohji Yamamoto’s Y-3 sticks to what it knows best with this beanie: black. The stealthy hue covers the entirety of the pure wool construction, save for the bright white brand patch that sits front and centre."
+			},
+			{
+				"id": 17,
+				"name": "GUCCI LIBERTY PRINT BUCKET HAT",
+				"price": 300,
+				"currency": "$",
+				"image": "https://i.imgur.com/Df672pj.jpg",
+				"size": "Universal",
+				"colour": "Multicolor",
+				"material": "Textile",
+				"brand": "Gucci",
+				"description": "Italy’s love affair with London’s iconic department store goes back a century – the Art Nouveau movement was referred to as ‘Stile Liberty’."
+			}
+		],
+		"image": "https://i.imgur.com/xzXYzaf.jpg",
+		"name": "Hats",
+		"description": "Something for the hipster inside you"
+	}
+}

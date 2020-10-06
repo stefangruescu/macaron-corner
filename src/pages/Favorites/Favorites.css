@@ -1,0 +1,6 @@
+.favorites-page svg {
+  cursor: pointer;
+}
+.favorites-page img {
+  max-height: 100px;
+}

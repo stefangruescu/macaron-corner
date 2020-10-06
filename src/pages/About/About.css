@@ -1,0 +1,51 @@
+.about-us .row-normal {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 100%;
+}
+
+.about-us .row-reverse {
+	display: flex;
+	flex-direction: row-reverse;
+	flex-wrap: wrap;
+	width: 100%;
+}
+
+.about-us .column {
+	display: flex;
+	flex-direction: column;
+	flex-basis: 100%;
+	flex: 1;
+}
+.about-us .column .column-1,
+.about-us .column .column-2,
+.about-us .column .column-2-r {
+	height: 100%;
+}
+
+.about-us img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.about-us .column-2 {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: center;
+	padding: 30px;
+	background: #000000;
+	color: white;
+	font-size: 24px;
+}
+.about-us .column-2-r {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: center;
+	padding: 30px;
+	background: #e8355f;
+	font-size: 24px;
+}
