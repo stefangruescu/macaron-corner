@@ -1,5 +1,4 @@
-import React from 'react';
-require('dotenv');
+console.log(process.env.REACT_APP_API_KEY);
 
 const firebaseConfig = {
 	apiKey: process.env.REACT_APP_API_KEY,
